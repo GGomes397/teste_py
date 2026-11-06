@@ -1,0 +1,13 @@
+---
+title: "Case bootcamp"
+format: html
+editor: visual
+---
+
+## Contexto
+
+Chegou uma pessoa de negócios querendo saber quais deveriam ser as pessoas que ela deveria investir na publicidade e como deveriamos maximizar os lucros através das propagandas
+
+```{python}
+
+```

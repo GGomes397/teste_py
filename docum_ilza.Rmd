@@ -1,0 +1,10 @@
+---
+title: "DOCUMENTAÇÃO"
+author: "Geisielen Gomes"
+date: "2026-10-28"
+output: html_document
+---
+
+A primeira coisa que vamos fazer depois de ler o conjunto de dados é tirar a primera coluna pra colocar como conjunto de teste .(acho que vou colocar o conjunto de teste num vetor separado)
+
+Os valores do conjunto (inicio, meio e barragem )são a variação entre o valor real que é dado na primeira coluna e o valor que achou na hora de calcular esses valores na equipamento (talvez colocar os valores reais dos comprimento de onda mais a variação dada na coluna )
